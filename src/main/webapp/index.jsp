@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to DevOps</h1>
-    <h2>Complete CI CD part today</h2>
+    <h2>13 May Complete CI CD part today</h2>
 </body>
 </html>
 
